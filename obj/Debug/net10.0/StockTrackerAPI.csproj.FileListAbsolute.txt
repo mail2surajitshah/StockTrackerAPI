@@ -124,3 +124,4 @@ E:\Learning\StockTrackerApp - git\StockTrackerAPI\obj\Debug\net10.0\refint\Stock
 E:\Learning\StockTrackerApp - git\StockTrackerAPI\obj\Debug\net10.0\StockTrackerAPI.pdb
 E:\Learning\StockTrackerApp - git\StockTrackerAPI\obj\Debug\net10.0\StockTrackerAPI.genruntimeconfig.cache
 E:\Learning\StockTrackerApp - git\StockTrackerAPI\obj\Debug\net10.0\ref\StockTrackerAPI.dll
+E:\Learning\StockTrackerApp - git\StockTrackerAPI\obj\Debug\net10.0\StockTrackerAPI.sourcelink.json
